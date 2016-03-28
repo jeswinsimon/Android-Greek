@@ -40,14 +40,8 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_about) {
-            Log.i("Main Activity", "Menu -> About");
-            return true;
-        }
-
         if (id == R.id.action_source) {
-            Log.i("Main Activity", "Menu -> View Source Code");
-            String url = "https://github.com/jeswinsimon";
+            String url = "https://github.com/jeswinsimon/Android-Greek";
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(url));
             startActivity(intent);

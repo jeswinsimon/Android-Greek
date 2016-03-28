@@ -41,11 +41,6 @@ public class MainActivityFragment extends Fragment {
                 Alphabet alphabet = alphabetsArrayList.get(position);
                 Intent alphabetIntent = new Intent(getActivity(), DetailActivity.class).putExtra("alphabet", alphabet);
                 startActivity(alphabetIntent);
-                /*Toast.makeText(getActivity().getApplicationContext(),
-                        "List Item: " + itemsArray[position], Toast.LENGTH_LONG)
-                        .show();*/
-                /*Intent intent = new Intent(getActivity(), DetailActivity.class).putExtra(Intent.EXTRA_TEXT, itemsArray[position]);
-                startActivity(intent);*/
             }
         });
 
