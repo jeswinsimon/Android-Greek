@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<greek>
+	<alphabet name="Alpha" lowercase="α" uppercase="Α">
+		<description>
+			Alpha (uppercase Α, lowercase α; Greek: Άλφα Álpha) is the first letter of the Greek alphabet. In the system of Greek numerals it has a value of 1. It was derived from the Phoenician letter aleph Aleph. Letters that arose from alpha include the Latin A and the Cyrillic letter А.
+
+			In English, the noun "alpha" is used as a synonym for "beginning", or "first" (in a series), reflecting its Greek roots.
+		</description>
+	</alphabet>
+	<alphabet name="Beta" lowercase="β" uppercase="Β">
+		<description>
+			Beta (UK /ˈbiːtə/ or US /ˈbeɪtə/; uppercase Β, lowercase β, or cursive ϐ; Ancient Greek: βῆτα bḗta or Modern Greek: βήτα víta) is the second letter of the Greek alphabet. In Ancient Greek, beta represented the voiced bilabial plosive /b/. In Modern Greek, it represents the voiced labiodental fricative /v/. Letters that arose from beta include the Roman letter ⟨B⟩ and the Cyrillic letters ⟨Б⟩ and ⟨В⟩.
+		</description>
+	</alphabet>
+	<alphabet name="Gamma" lowercase="γ" uppercase="Γ">
+		<description>
+			Gamma (uppercase Γ, lowercase γ; Greek: Γάμμα Gámma) is the third letter of the Greek alphabet. In the system of Greek numerals it has a value of 3. In Ancient Greek, gamma represented a voiced velar stop /ɡ/. In Modern Greek, it represents a voiced fricative.
+
+			Based on its phonetic value in Modern Greek, gamma has also been introduced in a number of modern Latin-alphabet based phonetic notations (Latin (or latinized) gamma Ɣ).
+		</description>
+	</alphabet>
+	<alphabet name="Delta" lowercase="𝛿" uppercase="Δ">
+		<description>
+			Delta (uppercase Δ, lowercase δ or 𝛿; Δέλτα Délta; Modern Greek [ˈðelta]) is the fourth letter of the Greek alphabet. In the system of Greek numerals it has a value of 4. It was derived from the Phoenician letter dalet Phoenician daleth.png. Letters that come from delta include Latin D and Cyrillic Д.
+
+			A river delta (originally, the Nile River delta) is so named because its shape approximates the upper-case letter delta (the shape is a triangle). Despite a popular legend, this use of the word delta was not coined by Herodotus.
+		</description>
+	</alphabet>
+	<alphabet name="Epsilon" lowercase="ε" uppercase="Ε">
+		<description>
+			Epsilon (uppercase Ε, lowercase ε or lunate ϵ; Greek: Έψιλον) is the fifth letter of the Greek alphabet, corresponding phonetically to a close-mid front unrounded vowel /e/. In the system of Greek numerals it has the value five. It was derived from the Phoenician letter He He. Letters that arose from epsilon include the Roman E, Ë and Ɛ, and Cyrillic Е, È, Ё, Є and Э.
+
+			The name of the letter was originally εἶ (Ancient Greek: [êː]), but the name was changed to ἒ ψιλόν (e psilon "simple e") in the Middle Ages to distinguish the letter from the digraph αι, a former diphthong that had come to be pronounced the same as epsilon.
+
+			In essence, the uppercase form of epsilon looks identical to Latin E. The lowercase version has two typographical variants, both inherited from medieval Greek handwriting. One, the most common in modern typography and inherited from medieval minuscule, looks like a reversed "3". The other, also known as lunate or uncial epsilon and inherited from earlier uncial writing, looks like a semicircle crossed by a horizontal bar. While in normal typography these are just alternative font variants, they may have different meanings as mathematical symbols. Computer systems therefore offer distinct encodings for them.[1] In Unicode, the character U+03F5 "Greek lunate epsilon symbol" (ϵ) is provided specifically for the lunate form. In TeX, \epsilon (\epsilon\!) denotes the lunate form, while \varepsilon (\varepsilon\!) denotes the inverted-3 form.
+
+			There is also a Latin epsilon or "open e", which looks similar to the Greek lowercase epsilon. It is encoded in Unicode as U+025B ("Latin small-letter open e", ɛ) and U+0190 ("Latin capital-letter open e", Ɛ) and is used as an IPA phonetic symbol. The lunate or uncial epsilon has also provided inspiration for the euro sign (€).
+
+			The lunate epsilon (ϵ) is not to be confused with the set membership symbol (∈); nor should the Latin uppercase epsilon (Ɛ) be confused with the Greek uppercase sigma (Σ).
+		</description>
+	</alphabet>
+	<alphabet name="Zeta" lowercase="ζ" uppercase="Ζ">
+		<description>
+			Zeta (uppercase Ζ, lowercase ζ; Greek: ζήτα, classical [d͡zɛ̂:ta] or [zdɛ̂:ta] zḗta, Modern Greek: [ˈzita] zíta) is the sixth letter of the Greek alphabet. In the system of Greek numerals, it has a value of 7. It was derived from the Phoenician letter zayin Zayin. Letters that arose from zeta include the Roman Z and Cyrillic З.
+		</description>
+	</alphabet>
+	<alphabet name="Eta" lowercase="η" uppercase="Η">
+		<description>
+			Eta (uppercase Η, lowercase η; Ancient Greek: ἦτα êta or Modern Greek: ήτα íta) is the seventh letter of the Greek alphabet. Originally denoting a consonant /h/, its sound value in the classical Attic dialect of Ancient Greek was a long vowel [ɛː], raised to [i] in medieval Greek, a process known as iotacism.
+
+			In the system of Greek numerals it has a value of 8. It was derived from the Phoenician letter heth. Letters that arose from eta include the Latin H and the Cyrillic letter И.
+		</description>
+	</alphabet>
+	<alphabet name="Theta" lowercase="θ" uppercase="Θ">
+		<description>
+			Theta (uppercase Θ or ϴ, lowercase θ (which resembles digit 0 with horizontal line) or ϑ; Ancient Greek: θῆτα, thē̂ta, [tʰɛ̂ːta]; Modern: θήτα, thī́ta, [ˈθita]; UK /ˈθiːtə/, US /ˈθeɪtə/) is the eighth letter of the Greek alphabet, derived from the Phoenician letter Teth. In the system of Greek numerals it has a value of 9.
+		</description>
+	</alphabet>
+	<alphabet name="Iota" lowercase="" uppercase="">
+		<description>
+			Iota /aɪˈoʊtə/ (uppercase Ι, lowercase ι; Greek: Ιώτα) is the ninth letter of the Greek alphabet. It was derived from the Phoenician letter Yodh. Letters that arose from this letter include the Latin I and J and the Cyrillic І (І, і), Yi (Ї, ї), Je (Ј, ј), and iotated letters (e.g. Yu (Ю, ю)).
+
+			In the system of Greek numerals iota has a value of 10.
+
+			Iota represents the sound [i]. In ancient Greek it occurred in both long [iː] and short [i] versions, but this distinction was lost in Koine Greek.[3]
+
+			Iota participated as the second element in falling diphthongs, with both long and short vowels as the first element. Where the first element was long, the iota was lost in pronunciation at an early date, and was written in polytonic orthography as iota subscript, in other words as a very small ι under the main vowel, for instance ᾼ ᾳ ῌ ῃ ῼ ῳ. The former diphthongs became digraphs for simple vowels in Koine Greek.
+
+			The word is used in a common English phrase, 'not one iota', meaning 'not the slightest amount', in reference to a phrase in the New Testament (Matthew 5:18): "until heaven and earth pass away, not an iota, not a dot, (King James Version: '[not] one jot or one tittle') will pass from the Law until all is accomplished." (Mt 5:18) This refers to iota, the smallest letter, or possibly Yodh, י, the smallest letter in the Hebrew alphabet.
+
+			The word 'jot' (or iot) derives from iota.
+
+			The German, Portuguese and Spanish name for the letter J (Jot / jota) is derived from iota.
+		</description>
+	</alphabet>
+	<alphabet name="Kappa" lowercase="κ" uppercase="Κ">
+		<description>
+			Kappa (uppercase Κ, lowercase κ or cursive ϰ; Greek: κάππα, káppa) is the 10th letter of the Greek alphabet, used to represent the /k/ sound in Ancient and Modern Greek. In the system of Greek numerals, Kʹ has a value of 20. It was derived from the Phoenician letter kaph. Letters that arose from kappa include the Roman K and Cyrillic К.
+
+			Greek proper names and placenames containing kappa are often written in English with "c" due to the Romans' transliterations into the Latin alphabet: Constantinople, Corinth, Crete. All formal modern romanizations of Greek now use the letter "k", however: Thessaloniki, Kalamata, Nikaia.
+
+			The cursive form ϰ is generally a simple font variant of lower-case kappa, but it is encoded separately in Unicode for occasions where it is used as a separate symbol in math and science. In mathematics, the kappa curve is named after this letter; the tangents of this curve were first calculated by Isaac Barrow in the 17th century.
+		</description>
+	</alphabet>
+	<alphabet name="Lambda" lowercase="λ" uppercase="Λ">
+		<description>
+			Lambda (uppercase Λ, lowercase λ; Greek: Λάμ(β)δα lam(b)da) is the 11th letter of the Greek alphabet. In the system of Greek numerals lambda has a value of 30. Lambda is related to the Phoenician letter Lamed Lamedh. Letters in other alphabets that stemmed from lambda include the Latin L and the Cyrillic letter El (Л, л). The ancient grammarians and dramatists give evidence to the pronunciation as [laːbdaː] (λάβδα) in Classical Greek times.[1] In Modern Greek the name of the letter, Λάμδα, is pronounced [lamða]; the spoken letter itself has the sound of "l" as with Latinate "L".
+
+			In early Greek alphabets, the shape and orientation of lambda varied.[2] Most variants consisted of two straight strokes, one longer than the other, connected at their ends. The angle might be in the upper-left, lower-left ("Western" alphabets), or top ("Eastern" alphabets). Other variants had a vertical line with a horizontal or sloped stroke running to the right. With the general adoption of the Ionic alphabet, Greek settled on an angle at the top; the Romans put the angle at the lower-left.
+
+			The HTML 4 character entity references for the Greek capital and small letter lambda are "&#923;" and "&#955;", respectively.[3] The Unicode numbers for lambda are U+039B and U+03BB.
+		</description>
+	</alphabet>
+	<alphabet name="Mu" lowercase="μ" uppercase="Μ">
+		<description>
+			Mu (uppercase Μ, lowercase μ; Ancient Greek μῦ [mŷː], Modern Greek μι or μυ [mi]) is the 12th letter of the Greek alphabet. In the system of Greek numerals it has a value of 40. Mu was derived from the Egyptian hieroglyphic symbol for water (𓈖), which had been simplified by the Phoenicians and named after their word for water, to become mem. Letters that arose from mu include the Roman M and the Cyrillic М.
+		</description>
+	</alphabet>
+	<alphabet name="Nu" lowercase="ν" uppercase="Ν">
+		<description>
+			Nu /nuː/ (uppercase Ν lowercase ν, also transcribed Ny; modern Greek: Νι [ni] Ni), is the 13th letter of the Greek alphabet. In the system of Greek numerals it has a value of 50. It is derived from the Phoenician letter nun. Its Latin equivalent is N, though the lowercase resembles the Roman lowercase v.
+
+			The name of the letter is written νῦ in Ancient Greek and traditional Modern Greek polytonic orthography, while in Modern Greek it is written νι [ni].
+		</description>
+	</alphabet>
+	<alphabet name="Xi" lowercase="ξ" uppercase="Ξ">
+		<description>
+			Xi (uppercase Ξ, lowercase ξ; Greek: ξι) is the 14th letter of the Greek alphabet. It is pronounced [ksi] in Modern Greek, and generally /ˈzaɪ/ or /ˈsaɪ/ in English. In the system of Greek numerals, it has a value of 60. Xi was derived from the Phoenician letter samekh.
+
+			Xi is not to be confused with the letter chi, which gave its form to the Latin letter X.
+		</description>
+	</alphabet>
+	<alphabet name="Omicron" lowercase="ο" uppercase="Ο">
+		<description>
+			Omicron (uppercase Ο, lowercase ο, literally "small o": Όμικρον, o mikron, micron meaning 'small' in contrast to omega) is the 15th letter of the Greek alphabet. In the system of Greek numerals it has a value of 70. This letter is derived from the Phoenician letter ayin. In classical Greek, omicron represented the sound [o] in contrast to omega [ɔː] and ου [oː]. In modern Greek, omicron represents the sound [ɔ]. Letters that arose from omicron include Roman O and Cyrillic O.
+
+			The upper-case letter of omicron (O) was originally used in mathematics as a symbol for Big O notation (representing a function's asymptotic growth rate), but has fallen out of favor because omicron is indistinguishable from the Latin letter O and easily confused with the digit zero (0).
+
+			Omicron is used to designate the fifteenth star in a constellation group, its ordinal placement a function of both magnitude and position. Such stars include Omicron Andromedae, Omicron Ceti, and Omicron Persei.
+		</description>
+	</alphabet>
+	<alphabet name="Pi" lowercase="π" uppercase="Π">
+		<description>
+			Pi (/ˈpaɪ/; Greek: [pi], uppercase Π, lowercase π) is the sixteenth letter of the Greek alphabet, representing [p]. In the system of Greek numerals it has a value of 80. It was derived from the Phoenician letter pe. Letters that arose from pi include Cyrillic Pe (П, п), Coptic pi (Ⲡ, ⲡ), and Gothic pairthra (𐍀).
+		</description>
+	</alphabet>
+	<alphabet name="Rho" lowercase="ρ" uppercase="Ρ">
+		<description>
+			Rho (/ˈroʊ/; uppercase Ρ, lowercase ρ or ϱ; Greek: ῥῶ) is the 17th letter of the Greek alphabet. In the system of Greek numerals, it has a value of 100. It is derived from Phoenician letter res. Its uppercase form is not to be confused with the Latin letter P, although both types use the same glyph; P.
+		</description>
+	</alphabet>
+	<alphabet name="Sigma" lowercase="σ" uppercase="Σ">
+		<description>
+			Sigma (upper-case Σ, lower-case σ, lower-case in word-final position ς; Greek σίγμα) is the eighteenth letter of the Greek alphabet. In the system of Greek numerals, it has a value of 200. When used at the end of a word, when the word is not all upper-case, the final form (ς) is used, e.g. Ὀδυσσεύς (Odysseus); note the two sigmas in the center of the name, and the word-final sigma at the end.
+		</description>
+	</alphabet>
+	<alphabet name="Tau" lowercase="τ" uppercase="Τ">
+		<description>
+			Tau (uppercase Τ, lowercase τ; Greek: ταυ [taf]) is the 19th letter of the Greek alphabet. In the system of Greek numerals it has a value of 300.
+
+			Tau was derived from the Phoenician letter taw. Letters that arose from tau include Roman T and Cyrillic Te (Т, т).
+
+        </description>
+	</alphabet>
+	<alphabet name="Upsilon" lowercase="υ" uppercase="Υ">
+		<description>
+			Upsilon (uppercase Υ, lowercase υ; Greek: ύψιλον, ýpsilon, [ˈipsilon]; /ˈʌpsᵻlɒn, ˈjuːp-, ˈuːp-, ˈʊp-, -lən/; or UK /ʌpˈsaɪlən, juːp-/) is the 20th letter of the Greek alphabet. In the system of Greek numerals, Υʹ has a value of 400. It is derived from the Phoenician waw.
+		</description>
+	</alphabet>
+	<alphabet name="Phi" lowercase="φ" uppercase="Φ">
+		<description>
+			Phi (uppercase Φ, lowercase φ; Ancient Greek: ϕεῖ, pheî, [pʰé͜e]; modern Greek: φι, fi, [fi]; English: /faɪ/) is the 21st letter of the Greek alphabet. In Ancient Greek, it represented an aspirated voiceless bilabial plosive ([pʰ]), which was the origin of its usual romanization as "ph". In modern Greek, it represents a voiceless labiodental fricative ([f]) and is correspondingly romanized as "f". Its origin is uncertain but it may be that phi originated as the letter qoppa and initially represented the sound /kʷʰ/ before shifting to Classical Greek [pʰ]. In traditional Greek numerals, phi has a value of 500 (φʹ) or 500 000 (͵φ). The Cyrillic letter Ef (Ф, ф) descends from phi.
+
+			Phi is also used as a symbol for the golden ratio and on other occasions in math and science. This use is separately encoded as the Unicode glyph ϕ. The modern Greek pronunciation of the letter is sometimes encountered in English (as /fiː/) when the letter is being used in this sense.
+		</description>
+	</alphabet>
+	<alphabet name="Chi" lowercase="χ" uppercase="Χ">
+		<description>
+			Chi (uppercase Χ, lowercase χ; Greek: χῖ) is the 22nd letter of the Greek alphabet, pronounced /ˈkaɪ/ or /ˈkiː/ in English.
+		</description>
+	</alphabet>
+	<alphabet name="Psi" lowercase="ψ" uppercase="Ψ">
+		<description>
+			Psi (uppercase Ψ, lowercase ψ; Greek: Ψι Psi) is the 23rd letter of the Greek alphabet and has a numeric value of 700. In both Classical and Modern Greek, the letter indicates the combination /ps/ (as in English word "lapse").
+
+			For Greek loanwords in Latin and modern languages with Latin alphabets, psi is usually transliterated as "ps". In English, the letter is pronounced /ˈsaɪ/ or sometimes /ˈpsaɪ/. (In Greek, it is pronounced [ˈpsiː].)
+
+			The letter's origin is uncertain. It may or may not derive from the Phoenician alphabet. It appears in the 7th century BC, expressing /ps/ in the Eastern alphabets, but /kʰ/ in the Western alphabets (the sound expressed by Χ in the Eastern alphabets). In writing, the early letter appears in an angular shape. There were early graphical variants that omitted the stem.
+
+			The Western letter (expressing /kʰ/, later /x/) was adopted into the Old Italic alphabets, and its shape is also continued into the Algiz rune of the Elder Futhark. The classical Greek letter was adopted into the early Cyrillic alphabet as "Ѱ".
+		</description>
+	</alphabet>
+	<alphabet name="Omega" lowercase="ω" uppercase="Ω">
+		<description>
+			Omega (capital: Ω, lowercase: ω; Greek Ωμέγα) is the 24th and last letter of the Greek alphabet. In the Greek numeric system, it has a value of 800. The word literally means "great O" (ō mega, mega meaning 'great'), as opposed to omicron, which means "little O" (o mikron, micron meaning "little"). This name is Byzantine; in Classical Greek, the letter was called ō (ὦ), whereas the omicron was called ou (οὖ). The form of the uppercase letter derives from that of an omicron (Ο) broken up at the side, with the edges subsequently turned outward. The modern lowercase shape goes back to the uncial form Greek uncial, a form that developed during the 3rd century BC in ancient handwriting on papyrus, from a flattened-out form of the letter that had its edges curved even further upward.
+
+			In phonetic terms, the Ancient Greek Ω is a long open-mid o [ɔː], comparable to the vowel of British English raw. In Modern Greek, Ω represents [ɔ], the same sound as omicron. The letter omega is transcribed ō or simply o.
+
+			In addition to the Greek alphabet, Omega was also adopted into the early Cyrillic alphabet. See Cyrillic omega (Ѡ, ѡ). A Raetic variant is conjectured to be at the origin or parallel evolution of the Elder Futhark ᛟ. Omega was also adopted into the Latin alphabet, as a letter of the 1982 revision to the African reference alphabet. It has had little use. See Latin omega.
+
+			As the last letter of the Greek alphabet, Omega is often used to denote the last, the end, or the ultimate limit of a set, in contrast to alpha, the first letter of the Greek alphabet. Omega is also used in Christianity, as a part of the Alpha and Omega metaphor.
+		</description>
+	</alphabet>
+</greek>
